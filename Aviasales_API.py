@@ -1,4 +1,4 @@
-# eee1edc78f6536c846d410cf054b571c
+
 # https://app.travelpayouts.com/programs/100/tools/api
 # ЗАПРОС: Самые дешевые билеты на определенные даты
 # http://api.travelpayouts.com/v1/prices/direct
@@ -16,7 +16,7 @@ import requests
 import json
 from pprint import pprint
 
-api_key = 'eee1edc78f6536c846d410cf054b571c'
+api_key = 'TOKEN'
 departure = 'MOW'
 destination = 'DXB'
 currency = 'usd'
