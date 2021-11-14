@@ -1,0 +1,66 @@
+{
+    "success": true,
+    "data": [
+        {
+            "origin": "MOW",
+            "destination": "DXB",
+            "origin_airport": "VKO",
+            "destination_airport": "DXB",
+            "price": 266,
+            "airline": "DP",
+            "flight_number": "951",
+            "departure_at": "2022-03-01T09:30:00+03:00",
+            "return_at": "2022-03-10T15:45:00+04:00",
+            "transfers": 0,
+            "return_transfers": 0,
+            "duration": 670,
+            "link": "/search/MOW0103DXB10031?t=DP16461162001646135700000325VKODXB16469127001646933400000345DXBVKO_6b7188812abd43dd7eb29129118eba47_19403&search_date=14112021&expected_price_uuid=0dcc754c-71cc-4b1a-b8e5-49af1b1df5b9&expected_price_currency=rub"
+        },
+        {
+            "origin": "MOW",
+            "destination": "DXB",
+            "origin_airport": "VKO",
+            "destination_airport": "DXB",
+            "price": 415,
+            "airline": "FZ",
+            "flight_number": "1912",
+            "departure_at": "2022-03-01T15:40:00+03:00",
+            "return_at": "2022-03-10T19:40:00+04:00",
+            "transfers": 0,
+            "return_transfers": 0,
+            "duration": 665,
+            "link": "/search/MOW0103DXB10031?t=FZ16461384001646157900000325VKODXB16469268001646947200000340DXBVKO_6720da8465cd1d635f453d97fc4267c3_30250&search_date=14112021&expected_price_uuid=0dcc754c-71cc-4b1a-b8e5-49af1b1df5b9&expected_price_currency=rub"
+        },
+        {
+            "origin": "MOW",
+            "destination": "DXB",
+            "origin_airport": "SVO",
+            "destination_airport": "DXB",
+            "price": 502,
+            "airline": "SU",
+            "flight_number": "522",
+            "departure_at": "2022-03-01T00:45:00+03:00",
+            "return_at": "2022-03-10T08:55:00+04:00",
+            "transfers": 0,
+            "return_transfers": 0,
+            "duration": 690,
+            "link": "/search/MOW0103DXB10031?t=SU16460847001646105100000340SVODXB16468881001646909100000350DXBSVO_a1d8f1c010ebde534a0ce195582a967c_36616&search_date=14112021&expected_price_uuid=0dcc754c-71cc-4b1a-b8e5-49af1b1df5b9&expected_price_currency=rub"
+        },
+        {
+            "origin": "MOW",
+            "destination": "DXB",
+            "origin_airport": "DME",
+            "destination_airport": "DXB",
+            "price": 514,
+            "airline": "EK",
+            "flight_number": "134",
+            "departure_at": "2022-03-01T17:00:00+03:00",
+            "return_at": "2022-03-10T09:15:00+04:00",
+            "transfers": 0,
+            "return_transfers": 0,
+            "duration": 645,
+            "link": "/search/MOW0103DXB10031?t=EK16461432001646162100000315DMEDXB16468893001646909100000330DXBDME_2a67b258688677ea528d8de4da0f196d_37468&search_date=14112021&expected_price_uuid=0dcc754c-71cc-4b1a-b8e5-49af1b1df5b9&expected_price_currency=rub"
+        }
+    ],
+    "currency": "usd"
+}
